@@ -1,5 +1,5 @@
 {
-  "name" : "users_api",
+  "name" : "users_API",
   "main" : "server.js",
   "dependencies" : {
     "express" : "4.4.1",
